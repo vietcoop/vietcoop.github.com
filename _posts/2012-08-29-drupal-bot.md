@@ -1,7 +1,7 @@
 ---
-layout: default
-published: true
-permalink: /documentations/tools/drupal/drupal-bot
+layout:     post
+published:  true
+permalink:  /documentations/tools/drupal/drupal-bot
 title     : Drupal Bot
 category  : 'Documentation'
 tags      : ['tools', 'drupal']
