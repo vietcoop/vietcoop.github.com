@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: post
 published: true
 title: Dùng path trong custom text của views
 comments  : true
+permalink: /documentation/tools/openshift
 author : duynguyen
 ---
 
