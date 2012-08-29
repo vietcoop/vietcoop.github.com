@@ -1,6 +1,7 @@
 ---
 layout: default
 published: true
+title     : Drupal Bot
 category  : 'Documentation'
 tags      : ['tools', 'drupal']
 ---
