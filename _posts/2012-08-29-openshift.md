@@ -2,6 +2,7 @@
 layout: default
 published: true
 title : Sử dụng openshift để làm hotsting
+author    : duynguyen
 ---
 
 # Openshift là gì
@@ -46,6 +47,3 @@ Openshift không hỗ trợ chúng ta fpt vào ứng dụng của chúng ta vì 
 1. Bạn có thể add cartridge php myadmin để quản lý database
 1. Dùng shh để connecnt vào app của bạn
 1. Dùng git để quản lý source
-
-
-
