@@ -18,7 +18,7 @@ nó là môi trường để bạn tạo và phát triển ứng dụng của b�
 Bạn chỉ cần đăng ký 1 tài khỏan và có thể sủ dụng openshift.
 
 # Open shift hỗ trợ những gì
-openshift cho chúng ta tạo các ứng dụng sau:
+openshift cho chúng ta tạo các Instant Applications sau:
 
 1. CakePHP
 1. Ruby on Rails
