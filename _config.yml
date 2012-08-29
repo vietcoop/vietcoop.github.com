@@ -10,7 +10,7 @@ safe     : true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : VCBlog
+title : Viet Coop Blog
 tagline: Viet Coop Team's blog
 author :
   name : Viet Coop
