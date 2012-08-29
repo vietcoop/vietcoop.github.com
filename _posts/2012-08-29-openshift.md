@@ -17,7 +17,7 @@ nó là môi trường để bạn tạo và phát triển ứng dụng của b�
 ## làm sao để dùng Openshift
 Bạn chỉ cần đăng ký 1 tài khỏan và có thể sủ dụng openshift.
 
-# Open shift hỗ trợ những gì
+## Open shift hỗ trợ những gì
 openshift cho chúng ta tạo các Instant Applications sau:
 
 1. CakePHP
@@ -35,12 +35,12 @@ Và các Web Cartridges
 1. Perl 5.10
 1. .....
 
-# Làm sao để tạo một ứng dụng. ở đây tôi chỉ đề cập đến drupal
+## Làm sao để tạo một ứng dụng. ở đây tôi chỉ đề cập đến drupal
 Có 2 cách để tạo một ứng dụng trên openshift
 1. Dùng giao diện web để quản lý
 1. Dùng dòng lệnh . bạn có thể tham khảo link sau để cài đặt client tool https://openshift.redhat.com/community/get-started . sau khi cài đặt bạn có thể gõ chưa gõ rhc --help để xem danh sách lệnh của nó.
 
-# Làm để quản lý database, source của ứng dụng
+## Làm để quản lý database, source của ứng dụng
 Openshift không hỗ trợ chúng ta fpt vào ứng dụng của chúng ta vì thế bạn chỉ có thể tác động đến source và database như sau:
 
 1. Bạn có thể add cartridge php myadmin để quản lý database
