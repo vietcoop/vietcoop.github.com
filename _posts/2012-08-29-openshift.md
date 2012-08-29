@@ -32,4 +32,5 @@ Và các Web Cartridges
 1. Ruby 1.9.3
 1. PHP-5.3
 1. Python 2.6
+1. Perl 5.10
 1. .....
