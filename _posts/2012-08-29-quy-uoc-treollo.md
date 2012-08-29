@@ -2,7 +2,7 @@
 layout: post
 published: true
 title : Quy ước sử dụng Trello
-permalink:/documentations/trello
+permalink: /documentations/trello
 author : duynguyen
 ---
 
