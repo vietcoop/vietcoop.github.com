@@ -40,4 +40,12 @@ Có 2 cách để tạo một ứng dụng trên openshift
 1. Dùng giao diện web để quản lý
 1. Dùng dòng lệnh . bạn có thể tham khảo link sau để cài đặt client tool https://openshift.redhat.com/community/get-started
 
+# Làm để quản lý database, source của ứng dụng
+Openshift không hỗ trợ chúng ta fpt vào ứng dụng của chúng ta vì thế bạn chỉ có thể tác động đến source và database như sau:
+
+1. Bạn có thể add cartridge php myadmin để quản lý database
+1. Dùng shh để connecnt vào app của bạn
+1. Dùng git để quản lý source
+
+
 
