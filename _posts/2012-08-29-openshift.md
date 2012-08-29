@@ -20,4 +20,10 @@ Bạn chỉ cần đăng ký 1 tài khỏan và có thể sủ dụng openshift.
 # Open shift hỗ trợ những gì
 openshift cho chúng ta tạo các ứng dụng sau:
 
-1. 
+1. CakePHP
+1. Ruby on Rails
+1. Ruby on Rails
+1. Kitchensink Example
+1. WordPress
+1. Drupal
+
