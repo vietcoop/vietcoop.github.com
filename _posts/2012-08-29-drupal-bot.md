@@ -17,3 +17,5 @@ tags      : ['tools', 'drupal']
 1. Reset tình trạng bot: `drush bot-status-reset -y`
 1. Start bot: `drush bot-start`
 1. Start bot deamon: `nohup drush bot-start &`
+
+vietcoop
