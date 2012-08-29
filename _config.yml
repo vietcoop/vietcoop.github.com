@@ -73,7 +73,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : toilanet
+      short_name : vietcoopblog
   analytics :
     provider : google
     google : 
