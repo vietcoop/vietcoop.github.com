@@ -91,4 +91,18 @@ Vd: 1 file make đơn giản
 - Drush FAQ's and Documentation drush.ws 
 - Generate a make file drushmake.me 
 
+## Chạy Drush Make trên server Unix
+- Drush Make chỉ được hỗ trợ trên drush 5.x trở lên
+1. Kiểm tra version hiện tại của drush: 
+>	$ drush --version
+1. Download phiên bản mới nhất của drush tại http://drupal.org/project/drush
+>	$ wget http://ftp.drupal.org/files/projects/drush-7.x-5.7.tar.gz 
+1. Giải nén thư mục drush-xxx.taz.gz vừa download về:
+>	$ tar zxf drush-xxx.tar.gz
+1. Kiểm tra version của file vừa download
+>	$ ./drush/drush --version
+1. Tạo alias mới cho drush mới
+>	$ vim ~/.bashrc
+>	$ alias drush="/home/yourdir/drush/drush"
+
 @__pvmchau__
