@@ -38,5 +38,6 @@ Và các Web Cartridges
 # Làm sao để tạo một ứng dụng. ở đây tôi chỉ đề cập đến drupal
 Có 2 cách để tạo một ứng dụng trên openshift
 1. Dùng giao diện web để quản lý
-1. DÙng dòng lệnh từ tool
+1. Dùng dòng lệnh . bạn có thể tham khảo link sau để cài đặt client tool https://openshift.redhat.com/community/get-started
+
 
