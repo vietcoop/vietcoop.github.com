@@ -2,7 +2,8 @@
 layout: default
 published: true
 title: Dùng path trong custom text của views
-
+comments  : true
+author : duynguyen
 ---
 
 Khi dùng views chúng ta đôi lúc cũng dùng customtext để add list link đến pages nào đó.
