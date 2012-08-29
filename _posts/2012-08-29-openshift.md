@@ -36,3 +36,7 @@ Và các Web Cartridges
 1. .....
 
 # Làm sao để tạo một ứng dụng. ở đây tôi chỉ đề cập đến drupal
+Có 2 cách để tạo một ứng dụng trên openshift
+1. Dùng giao diện web để quản lý
+1. DÙng dòng lệnh từ tool
+
