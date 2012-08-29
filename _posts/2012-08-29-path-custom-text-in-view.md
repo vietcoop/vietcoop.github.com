@@ -2,6 +2,7 @@
 layout: default
 published: false
 title: Dùng path trong custom text của views
+
 ---
 
 Khi dùng views chúng ta đôi lúc cũng dùng customtext để add list link đến pages nào đó.
