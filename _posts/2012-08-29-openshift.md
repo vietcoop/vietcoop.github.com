@@ -52,4 +52,4 @@ Openshift không hỗ trợ chúng ta fpt vào ứng dụng của chúng ta vì 
 
 
 
-	                                                                  by duynguyen
+	by duynguyen
