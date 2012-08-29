@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title : Sử dụng openshift để làm hotsting
+title : Sử dụng openshift
 permalink: /documentation/tools/openshift
 author    : duynguyen
 comments  : true
