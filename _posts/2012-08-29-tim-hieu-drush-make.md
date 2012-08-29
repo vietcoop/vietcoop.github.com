@@ -2,6 +2,11 @@
 layout: default
 published: true
 title : Tìm hiểu về Drush Make
+permalink: /documentation/tools
+comments  : true
+author    : pvmchau
+category  : 'Documentation'
+tags      : ['tools', 'drush', 'drush make']
 ---
 
 # Drush Make
