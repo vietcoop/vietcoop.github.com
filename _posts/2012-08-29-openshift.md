@@ -18,5 +18,6 @@ nó là môi trường để bạn tạo và phát triển ứng dụng của b�
 Bạn chỉ cần đăng ký 1 tài khỏan và có thể sủ dụng openshift.
 
 # Open shift hỗ trợ những gì
+openshift cho chúng ta tạo các ứng dụng sau:
 
 1. 
