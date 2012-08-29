@@ -3,6 +3,6 @@ layout: default
 published: false
 ---
 
-# How does it work?
+Khi dùng views chúng ta đôi lúc cũng dùng customtext để add list link đến pages nào đó.
 
-Enter Text in Markdown format.
+Việc dùng list link bằng cách viết tag a và link đến page khác có thể ở dưới local của bạn nó chạy được nhưng đây lên server thì nó không chạy
