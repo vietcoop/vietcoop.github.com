@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published: true
 title: Dùng path trong custom text của views
 
 ---
