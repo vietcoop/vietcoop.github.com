@@ -4,6 +4,8 @@ published: false
 title : Sử dụng openshift để làm hotsting
 ---
 
-# How does it work?
+# Openshift là gì
 
-Enter Text in Markdown format.
+nó là môi trường để bạn tạo và phát triển ứng dụng của bạn trên clound.
+
+# 
