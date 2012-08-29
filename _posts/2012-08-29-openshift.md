@@ -27,3 +27,9 @@ openshift cho chúng ta tạo các Instant Applications sau:
 1. WordPress
 1. Drupal
 
+Và các Web Cartridges
+
+1. Ruby 1.9.3
+1. PHP-5.3
+1. Python 2.6
+1. .....
