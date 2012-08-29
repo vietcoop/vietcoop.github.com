@@ -15,4 +15,4 @@ nó là môi trường để bạn tạo và phát triển ứng dụng của b�
 2. MegaShift : bạn có thể tham khảo tại đây https://openshift.redhat.com/community/developers/pricing
 
 # làm sao để dùng Openshift
-Bạn chỉ cần đăng ký 1 tài khỏan và có thể dùng nó
+Bạn chỉ cần đăng ký 1 tài khỏan và có thể sủ dụng openshift
