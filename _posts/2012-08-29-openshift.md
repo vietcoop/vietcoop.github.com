@@ -34,3 +34,5 @@ Và các Web Cartridges
 1. Python 2.6
 1. Perl 5.10
 1. .....
+
+# Làm sao để tạo một ứng dụng. ở đây tôi chỉ đề cập đến drupal
