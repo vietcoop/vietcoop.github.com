@@ -9,10 +9,10 @@ Việc dùng list link bằng cách viết tag a và link đến page khác có 
 
 Để giải quyết vấn để chúng ta có thể làm theo cách sau:
 
-*Thêm field mới 
+Thêm field mới 
 	1.rewrite results field này là một link. và config như sau
-    	* Link path : page link bạn muốn chuyển đến
-    	* Và chek : Use absolute path
+    	Link path : page link bạn muốn chuyển đến
+    	Và chek : Use absolute path
     2.check Exclude from display
-*Thêm field này vào custom text dùng REPLACEMENT PATTERNS
+Thêm field này vào custom text dùng REPLACEMENT PATTERNS
 	
