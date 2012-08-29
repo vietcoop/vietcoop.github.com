@@ -1,6 +1,7 @@
 ---
 layout: default
 published: false
+title: Dùng path trong custom text của views
 ---
 
 Khi dùng views chúng ta đôi lúc cũng dùng customtext để add list link đến pages nào đó.
@@ -14,6 +15,3 @@ Việc dùng list link bằng cách viết tag a và link đến page khác có 
     * Và check : Use absolute path. 
     * check Exclude from display
 1. Thêm field này vào custom text dùng REPLACEMENT PATTERNS
-
-
-	
