@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published: true
 title : Sử dụng openshift để làm hotsting
 ---
 
