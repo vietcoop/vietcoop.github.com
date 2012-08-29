@@ -1,6 +1,8 @@
 ---
 layout: default
-published: false
+published: true
+category  : 'Documentation'
+tags      : ['tools', 'drupal']
 ---
 
 {% include JB/setup %}
