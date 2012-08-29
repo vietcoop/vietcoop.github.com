@@ -3,6 +3,7 @@ layout: default
 published: true
 title : Sử dụng openshift để làm hotsting
 author    : duynguyen
+comments  : true
 ---
 
 # Openshift là gì
