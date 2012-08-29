@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: post
 published: true
 title : Sử dụng openshift để làm hotsting
+permalink: /documentation/tools/openshift
 author    : duynguyen
 comments  : true
 ---
