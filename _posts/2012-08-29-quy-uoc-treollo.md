@@ -18,6 +18,7 @@ author : duynguyen
 1. Quy tắc đặt tên board: [VCWork] YYYY-MM
 1. Quy tắc đặt tên list: W{%week-number}{%working-type} - %status
 1. Cơ bản sẽ có 6 List: W1Work - Todo/Doing/Done, W1Labs - Todo/Doing/Done
+
 ## Board phụ
 
 1. Chỉ gán quyền cho member cần thiết.
