@@ -18,3 +18,6 @@ Việc dùng list link bằng cách viết tag a và link đến page khác có 
     * Và check : Use absolute path. 
     * check Exclude from display
 1. Thêm field này vào custom text dùng REPLACEMENT PATTERNS
+
+
+	by duynguyen
