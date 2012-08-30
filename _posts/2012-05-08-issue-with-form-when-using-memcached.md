@@ -2,7 +2,7 @@
 layout: post
 published: true
 permalink: /documentation/faq/drupal-7/memcached-and-form
-title: Các công cụ đang được sử dụng tại Viet Coop
+title: Lỗi Memcache không cache form
 comments: true
 author: andytruong
 category: 'Documentation'
