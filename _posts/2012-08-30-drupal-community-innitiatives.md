@@ -14,6 +14,7 @@ tags      : ['community', 'initiative']
 ### [/DrupalGive](http://drupal.org/project/drupalgive)
 
 1. [Acquia](http://www.acquia.com/drupalgive)
+1. [Chapter3](http://www.chapterthree.com/drupalgive)
 1. [Dataflow](http://www.dataflow.be/nl/drupalgive)
 1. [Linnovate](http://www.linnovate.net/drupalgive)
 1. [Metaltoad](http://www.metaltoad.com/drupalgive)
