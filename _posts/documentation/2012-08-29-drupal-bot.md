@@ -1,6 +1,6 @@
 ---
 layout:     post
-permalink:  /documentations/tools/drupal/drupal-bot
+permalink:  /documentation/tools/drupal/drupal-bot
 title     : Drupal Bot
 category  : 'Documentation'
 tags      : ['tools', 'drupal']
