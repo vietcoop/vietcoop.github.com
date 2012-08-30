@@ -3,9 +3,11 @@ layout: post
 published: true
 title: Dùng path trong custom text của views
 comments  : true
-permalink: /documentation/tools/openshift
+permalink: /notes/drupal-7/views/custom-text-field
 author : duynguyen
 ---
+
+{% include JB/setup %}
 
 Khi dùng views chúng ta đôi lúc cũng dùng customtext để add list link đến pages nào đó.
 
