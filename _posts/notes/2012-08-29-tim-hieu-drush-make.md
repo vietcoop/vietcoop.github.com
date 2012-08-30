@@ -5,7 +5,7 @@ title : Tìm hiểu về Drush Make
 permalink: /notes/tools/drush-make
 comments  : true
 author    : pvmchau
-category  : 'Documentation'
+category  : 'Notes'
 tags      : ['tools', 'drush', 'drush make']
 ---
 
