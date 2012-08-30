@@ -5,6 +5,8 @@ title : Quy ước sử dụng Trello
 author : duynguyen
 ---
 
+{% include JB/setup %}
+
 Đây chỉ là các quy ước chung, không sử dụng cứng nhắc, cần linh động sử dụng khi áp dụng vào thực tế.
 
 1. Team làm việc dựa trên board/list/card trên Trello.
@@ -14,7 +16,7 @@ author : duynguyen
 
 ## Board chính
 
-1. Quy tắc đặt tên board: [VCWork] YYYY-MM
+1. Quy tắc đặt tên board: \[VCWork] YYYY-MM
 1. Quy tắc đặt tên list: W{%week-number}{%working-type} - %status
 1. Cơ bản sẽ có 6 List: W1Work - Todo/Doing/Done, W1Labs - Todo/Doing/Done
 
