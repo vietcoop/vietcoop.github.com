@@ -7,6 +7,7 @@ category  : 'Documentation'
 tags      : ['faq', 'drupal 7', 'drush']
 author    : andytruong
 comments  : true
+published: true
 ---
 
 {% include JB/setup %}
