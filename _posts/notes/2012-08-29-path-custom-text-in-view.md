@@ -3,6 +3,7 @@ layout: post
 published: true
 title: Dùng path trong custom text của views
 comments  : true
+category  : 'Notes'
 permalink: /notes/drupal-7/views/custom-text-field
 author : duynguyen
 ---
