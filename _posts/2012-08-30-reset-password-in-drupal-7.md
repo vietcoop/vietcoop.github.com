@@ -1,12 +1,12 @@
 ---
-layout: 	post
-published:  true
-permalink:  /documentation/faq/drupal-7/reset-password
-title: 		Reset password ở Drupal 7
-category  : 'Documentation'
-tags      : ['faq', 'drupal 7', 'drush']
-author    : andytruong
-comments  : true
+layout: post
+published: true
+permalink: /documentation/faq/drupal-7/reset-password
+title: Reset password ở Drupal 7
+category: 'Documentation'
+tags: ['faq', 'drupal 7', 'drush']
+author: andytruong
+comments: true
 published: true
 ---
 
