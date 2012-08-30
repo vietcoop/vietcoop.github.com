@@ -1,5 +1,8 @@
 ---
 layout: post
+permalink:  /bookmarks/drupal-theming
+author: andytruong
+tags: ['drupal', 'theming', 'design']
 published: true
 ---
 
