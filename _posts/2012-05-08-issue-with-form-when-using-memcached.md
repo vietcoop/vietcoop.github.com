@@ -8,6 +8,7 @@ author    : andytruong
 category  : 'Documentation'
 tags      : ['tools', 'development', 'memcached']
 published:  true
+published: true
 ---
 
 {% include JB/setup %}
