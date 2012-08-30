@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-permalink:/documentation/faq/drupal-7/memcached-and-form
+permalink: /documentation/faq/drupal-7/memcached-and-form
 title: Các công cụ đang được sử dụng tại Viet Coop
 comments: true
 author: andytruong
