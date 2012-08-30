@@ -1,12 +1,12 @@
 ---
 layout:     post
-published:  true
 permalink:  /bookmarks/drupal-groups
 title     : Các Drupal Groups thú vị
 comments  : true
 author    : andytruong
 category  : 'Bookmarks'
 tags      : ['groups', 'drupal.org']
+published: true
 ---
 
 {% include JB/setup %}
