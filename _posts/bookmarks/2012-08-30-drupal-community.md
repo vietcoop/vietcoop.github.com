@@ -1,7 +1,7 @@
 ---
 layout:     post
-permalink:  /bookmarks/drupal-groups
-title     : Các Drupal Groups thú vị
+permalink:  /bookmarks/drupal-community
+title     : Drupal Community
 comments  : true
 author    : andytruong
 category  : 'Bookmarks'
@@ -10,6 +10,8 @@ published: true
 ---
 
 {% include JB/setup %}
+
+# Groups
 
 ## Groups.Drupal.org
 
@@ -45,3 +47,9 @@ published: true
 ## Facebook
 
 1. [Drupal Vietnam](https://www.facebook.com/pages/Drupal-Vietnam/130401056619)
+
+# Voices
+
+1. [Drupal Planet](http://drupal.org/planet)
+1. [IRC Channels](http://drupal.org/irc "List of Drupal Channels on irc.freenode.net")
+1. [TheWeeklyDrop](http://theweeklydrop.com/archive)
