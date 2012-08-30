@@ -1,5 +1,6 @@
 ---
 layout:     post
+permalink:  /documentation/trello
 title:      Quy ước sử dụng Trello
 author:     duynguyen
 published: true
