@@ -24,6 +24,7 @@ tags      : ['groups', 'drupal.org']
 ### Distro
 
 1. [Drop Jobs Distribution](http://groups.drupal.org/drop-jobs-distribution)
+1. [Ecommerce](http://groups.drupal.org/ecommerce)
 
 ### High Performance
 
@@ -40,3 +41,7 @@ tags      : ['groups', 'drupal.org']
 ### Others
 
 1. [Open App Standard](http://groups.drupal.org/open-app-standard)
+
+## Facebook
+
+1. [Drupal Vietnam](https://www.facebook.com/pages/Drupal-Vietnam/130401056619)
