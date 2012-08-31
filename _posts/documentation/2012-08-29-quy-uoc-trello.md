@@ -6,7 +6,7 @@ author:     duynguyen
 published: true
 ---
 
-{% include JB/setup %}
+
 
 Đây chỉ là các quy ước chung, không sử dụng cứng nhắc, cần linh động sử dụng khi áp dụng 
 vào thực tế.
