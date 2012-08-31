@@ -9,6 +9,7 @@ published: true
 ### Base Theme
 
 1. [Omega Theme](http://drupal.org/node/819164)
+1. [Drupal Boilerplate - by Lullabot](http://lullabot.github.com/drupal-boilerplate/ "Drupal Boilerplate")
 
 ### Articles
 
