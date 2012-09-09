@@ -14,3 +14,5 @@ published: true
 1. [Skill Compass](http://drupal.org/project/sc "")
 1. [Examples](http://drupal.org/project/examples "")
 1. [Views Examples](http://drupal.org/project/views_examples "")
+1. [Rules Example](http://drupal.org/project/rules_example "")
+1. [Example Web Scraper](http://drupal.org/project/example_web_scraper "")
