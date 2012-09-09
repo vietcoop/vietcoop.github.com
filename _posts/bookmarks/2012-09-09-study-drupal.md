@@ -12,3 +12,4 @@ published: true
 {% include JB/setup %}
 
 1. [Skill Compass](http://drupal.org/project/sc "")
+1. [Examples](http://drupal.org/project/examples "")
