@@ -20,6 +20,7 @@ published: true
     1. [Flag](http://goo.gl/pr64X "")
     1. [Workbench](http://goo.gl/caXpi "")
 1. [Book: Drupal 7 Module Development](http://goo.gl/9kvWm "")
+1. [Book: The Definitive Guide to Drupal 7](http://goo.gl/TRpoR "")
 1. [Skill Compass](http://drupal.org/project/sc "")
 1. [Examples](http://drupal.org/project/examples "")
 1. [Views Examples](http://goo.gl/FkTkS "")
