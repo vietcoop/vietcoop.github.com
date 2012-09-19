@@ -2,6 +2,7 @@
 layout: post
 permalink:  /bookmarks/drupal-theming
 author: andytruong
+category: 'Bookmarks'
 tags: ['drupal', 'theming', 'design']
 published: true
 ---
