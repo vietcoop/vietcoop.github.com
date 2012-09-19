@@ -18,7 +18,7 @@ published: true
 1. [Rules Example](http://drupal.org/project/rules_example "")
 1. [Example Web Scraper](http://drupal.org/project/example_web_scraper "")
 
-## Panels
+## Panels, Views
 
 1. [Page manager and panels exercises](http://nodeone.se/en/node/1016 "")
 1. [Conditioned information on front page](http://nodeone.se/en/node/1018 "")
