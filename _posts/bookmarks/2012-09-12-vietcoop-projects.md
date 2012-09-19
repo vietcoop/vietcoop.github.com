@@ -10,6 +10,7 @@ published: true
 {% include JB/setup %}
 
 1. [shop Blackloon](http://shopblackloon.com/ "")
-1. [tenforce](http://www.tenforce.com/ "")
-1. [Crenet](http://crenet.com/ "")
+1. [tenforce](http://www.tenforce.com/ "Drupal Setup")
+1. [Crenet](http://crenet.com/ "Drupal Setup, custom modules for front end, content access")
 1. [Generation America](http://www.generationamerica.org/ "")
+1. [PECC](http://www.planetearthcleaning.com.au/ "Menu, Blog")
