@@ -17,3 +17,12 @@ published: true
 1. [Views Examples](http://drupal.org/project/views_examples "")
 1. [Rules Example](http://drupal.org/project/rules_example "")
 1. [Example Web Scraper](http://drupal.org/project/example_web_scraper "")
+
+## Panels
+
+1. [Page manager and panels exercises](http://nodeone.se/en/node/1016 "")
+1. [Conditioned information on front page](http://nodeone.se/en/node/1018 "")
+1. [Articles with the same tag](http://nodeone.se/en/node/1027 "")
+1. [Articles by same author](http://nodeone.se/en/node/1023 "")
+1. [OTHER articles by same author](http://nodeone.se/en/node/1026 "")
+1. [Adding author context](http://nodeone.se/en/node/1020 "")
