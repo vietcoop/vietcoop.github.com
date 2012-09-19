@@ -12,6 +12,7 @@ published: true
 {% include JB/setup %}
 
 1. [NodeOne's library](http://goo.gl/jNQ6c "")
+	1. [Four weeks of Drupal](http://goo.gl/znqOB "")
 	1. [Rules Framework](http://goo.gl/afqbo "")
     1. [Panels](http://goo.gl/EqzdD "")
     1. [Views](http://goo.gl/903Bq "")
