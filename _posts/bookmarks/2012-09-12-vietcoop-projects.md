@@ -4,7 +4,7 @@ permalink: /bookmarks/vietcoop-projects
 title: Projects
 author: andytruong
 category: 'Bookmarks'
-published: true
+published: false
 ---
 
 {% include JB/setup %}
