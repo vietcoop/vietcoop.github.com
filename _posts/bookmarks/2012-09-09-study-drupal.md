@@ -26,3 +26,6 @@ published: true
 1. [Articles by same author](http://nodeone.se/en/node/1023 "")
 1. [OTHER articles by same author](http://nodeone.se/en/node/1026 "")
 1. [Adding author context](http://nodeone.se/en/node/1020 "")
+1. [List group content with Page manager](http://nodeone.se/en/list-group-content-with-page-manager "")
+1. [More group content listing with Page manager](http://nodeone.se/en/more-group-content-listing-with-page-manager "")
+1. [This documentation page also appears in...](http://nodeone.se/en/this-documentation-page-also-appears-in "")
