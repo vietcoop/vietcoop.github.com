@@ -17,13 +17,14 @@ published: true
 1. [7 Mega Menu modules for Drupal](http://megadrupal.com/blog/7-mega-menu-modules-for-drupal)
 1. [How to get better at UI design](http://ui-patterns.com/blog/How-to-get-better-at-UI-design "")
 
-### Fonts
-
-1. [Font Squirrel](http://www.fontsquirrel.com/ "")
-
 ### Javascript
 
 1. [Zepto.JS](http://zeptojs.com/)
+1. [Underscore.js](http://underscorejs.org/ "")
+
+### Fonts
+
+1. [Font Squirrel](http://www.fontsquirrel.com/ "")
 
 ### Marketplaces
 
