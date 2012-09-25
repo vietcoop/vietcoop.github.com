@@ -21,6 +21,10 @@ published: true
 
 1. [Font Squirrel](http://www.fontsquirrel.com/ "")
 
+### Javascript
+
+1. [Zepto.JS](http://zeptojs.com/)
+
 ### Marketplaces
 
 1. [MegaDrupal](http://megadrupal.com/)
