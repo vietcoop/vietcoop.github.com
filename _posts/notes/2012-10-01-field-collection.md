@@ -15,7 +15,9 @@ author: andytruong
 
 > Provides a field-collection field, to which any number of fields can be attached.
 > 
-> A field collection is internally represented as an entity, which is embedded in the host entity. Thus, if desired field collections may be viewed and edited separately too.
+> A field collection is internally represented as an entity, which is embedded in 
+> the host entity. Thus, if desired field collections may be viewed and edited 
+> separately too.
 
 Sometime you want to create field collection entities dynamicly, this is trick:
 
