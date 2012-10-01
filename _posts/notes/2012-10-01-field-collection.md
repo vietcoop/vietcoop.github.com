@@ -19,7 +19,7 @@ author: andytruong
 > the host entity. Thus, if desired field collections may be viewed and edited 
 > separately too.
 
-Sometime you want to create field collection entities dynamicly, this is trick:
+Sometime you want to create **field collection entities** dynamicly, this is trick to create/update/delete field collection entities
 
   <script src="https://gist.github.com/3792605.js?file=gistfile1.php">
   </script>
