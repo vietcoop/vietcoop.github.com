@@ -8,7 +8,7 @@ permalink: /notes/drupal/7/field-collection
 author: andytruong
 ---
 
-Field Collection is an excellent module of Drupal, which:
+[Field Collection](http://drupal.org/project/field_collection "") is an excellent module of Drupal, which:
 
 > Provides a field-collection field, to which any number of fields can be attached.
 > 
