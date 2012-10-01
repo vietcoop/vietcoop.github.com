@@ -4,7 +4,7 @@ published: true
 title : Field Collection module for Drupal 7
 comments: true
 category: 'Notes'
-tags: ['Drupal 7', 'field' ,'field collection', 'tip']
+tags: ['Drupal 7', 'field', 'field collection', 'tip']
 permalink: /notes/drupal/7/field-collection
 author: andytruong
 ---
