@@ -22,6 +22,7 @@ published: true
 1. [Zepto.JS](http://zeptojs.com/)
 1. [Underscore.JS](http://underscorejs.org/ "")
 1. [Backbon.JS](http://backbonejs.org/ "")
+1. [jQuery Masonry](http://masonry.desandro.com/)
 
 ### Fonts
 
