@@ -36,3 +36,5 @@ published: true
 1. [ThemeBrain](http://themebrain.com/)
 1. [ThemeForest](http://goo.gl/WHRp4 "Drupal Themes at ThemeForest")
 1. [TemplateMonster](http://goo.gl/IsIyy "")
+1. [Theme Spectrum](http://themespectrum.com/)
+1. [Tokokoo](http://tokokoo.com/)
