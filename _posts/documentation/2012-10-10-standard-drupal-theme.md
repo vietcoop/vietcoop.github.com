@@ -2,6 +2,8 @@
 layout: post
 permalink:  /documentation/standard-theme
 title: Standard Drupal Theme
+category: 'Documentation'
+tags: ['draft', 'theming']
 published: true
 ---
 
