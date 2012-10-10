@@ -1,5 +1,5 @@
 ---
-layout    : default
+layout    : post
 permalink : /bookmarks/drupal-checklists
 title     : Drupal Checklist - Bookmarks
 category  : 'Bookmarks'
