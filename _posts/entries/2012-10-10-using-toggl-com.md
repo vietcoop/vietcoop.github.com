@@ -1,7 +1,7 @@
 ---
 layout:     post
 permalink:  /entry/using-toggl-com
-title:      Using Toggle.com for tracking time
+title:      Using Toggl.com for tracking time
 category  : 'Entries'
 tags      : ['working', 'time tracking']
 published: true
