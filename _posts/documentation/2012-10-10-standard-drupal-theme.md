@@ -17,14 +17,14 @@ published: true
 
 ### Drupal Modules
 
-1. [[CTools|http://drupal.org/project/ctools]]
-1. [[Views|http://drupal.org/project/views]]
-1. [[Fences|http://drupal.org/project/fences]]
+1. [CTools](http://drupal.org/project/ctools)
+1. [Views](http://drupal.org/project/views)
+1. [Fences](http://drupal.org/project/fences)
 
 ### Tools
 
-1. [[SASS|http://sass-lang.com/]]
-1. [[Compass|http://compass-style.org/]]
+1. [SASS](http://sass-lang.com/)
+1. [Compass](http://compass-style.org/)
 
 ### Supported Core Features
 
@@ -55,6 +55,6 @@ published: true
 
 ### Credits ===
 
-1. [[Icons by Glyphicons|http://glyphicons.com/]]
+1. [Icons by Glyphicons](http://glyphicons.com/)
 1. …
 1. …
