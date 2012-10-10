@@ -22,6 +22,7 @@ published: true
 1. [CTools](http://drupal.org/project/ctools)
 1. [Views](http://drupal.org/project/views)
 1. [Fences](http://drupal.org/project/fences)
+1. [Views Slideshow](http://drupal.org/project/views_slideshow)
 
 ### Tools
 
