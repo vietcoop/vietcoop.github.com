@@ -15,18 +15,18 @@ published: true
 
 1. Omega 3.x
 
-### Drupal Modules ===
+### Drupal Modules
 
 1. [[CTools|http://drupal.org/project/ctools]]
 1. [[Views|http://drupal.org/project/views]]
 1. [[Fences|http://drupal.org/project/fences]]
 
-### Tools ===
+### Tools
 
 1. [[SASS|http://sass-lang.com/]]
 1. [[Compass|http://compass-style.org/]]
 
-### Supported Core Features ==
+### Supported Core Features
 
 1. Not include admin pages. Please use Seven or Rubik for admin pages.
 1. Aggregator
@@ -46,7 +46,7 @@ published: true
 1. Tracker
 1. User
 
-### Supported Browser ===
+### Supported Browser
 
 1. Internet Explorers: 7 + 8 (don't support: border radius, animation, media queries), 9
 1. Firefox: …
