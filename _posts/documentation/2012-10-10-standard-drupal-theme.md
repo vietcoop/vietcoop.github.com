@@ -16,9 +16,10 @@ This document is in draft
 1. Dynamic Fonts
 1. Breadcrumb, dynamic separator.
 1. CSS classes:
-	1. Error Messages
+	1. Message Box: Info, Success, Warning, Error, Simple.
 	1. Images: Shadow, Float left/right/center.
-    1. Buttons: Round button, 
+    1. Buttons: Shadow, Round button.
+    1. PullQuote, BlockQuote.
 1. Misc
     1. Back to Top
 1. Demo Profile:
@@ -52,7 +53,8 @@ This document is in draft
 
 ### Supported Core Features
 
-1. Info/Error/Warning Messages
+1. Info/Error/Warning Messages.
+1. Form: Fieldset, Action Buttons.
 1. Not include admin pages. Please use Seven or Rubik for admin pages.
 1. Aggregator
 1. Book
@@ -76,6 +78,7 @@ This document is in draft
 1. [Superfish](http://drupal.org/project/superfish)
 1. [Views Slideshow](http://drupal.org/project/views_slideshow)
 1. [Skinr](http://drupal.org/project/skinr)
+1. [Quicktabs](http://drupal.org/project/quicktabs)
 
 ### Supported Browser
 
