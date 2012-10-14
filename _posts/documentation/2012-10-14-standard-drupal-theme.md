@@ -7,7 +7,7 @@ tags: ['draft', 'theming']
 published: true
 ---
 
-This document is in draft
+> This document is in draft
 
 ### Features
 
