@@ -7,7 +7,13 @@ tags: ['draft', 'theming']
 published: true
 ---
 
-	This document is in draft
+This document is in draft
+
+### Features
+
+1. Slideshow (support touch screen)
+1. Back to Top
+1. Dynamic Fonts
 
 ### Drupal Core
 
@@ -48,6 +54,12 @@ published: true
 1. Taxonomy - Term Listing Page
 1. Tracker
 1. User
+
+### Supported Contributed Modules
+
+1. [Superfish](http://drupal.org/project/superfish)
+1. [Views Slideshow](http://drupal.org/project/views_slideshow)
+1. [Skinr](http://drupal.org/project/skinr)
 
 ### Supported Browser
 
