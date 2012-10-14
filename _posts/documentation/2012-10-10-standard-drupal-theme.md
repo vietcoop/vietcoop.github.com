@@ -26,6 +26,9 @@ This document is in draft
     1. Page has no sidebar
     1. Page has only first sidebar
     1. Page has both first and seconds sidebars
+1. Code Hightlight
+1. Lazyload scripts:
+	1. [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/)
 
 ### Drupal Core
 
