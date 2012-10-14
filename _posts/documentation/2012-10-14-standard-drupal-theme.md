@@ -98,4 +98,4 @@ published: true
 
 ### Sample Themes
 
-1. http://themeforest.net/item/udesign-wordpress-theme/full_screen_preview/253220
+1. [uDesign](http://l.drupal.vc/RstBPA)
