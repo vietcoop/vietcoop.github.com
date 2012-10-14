@@ -95,3 +95,7 @@ This document is in draft
 ### Credits
 
 1. [Icons by Glyphicons](http://glyphicons.com/)
+
+### Sample Themes
+
+1. http://themeforest.net/item/udesign-wordpress-theme/full_screen_preview/253220
