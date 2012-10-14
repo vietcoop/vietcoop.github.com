@@ -83,6 +83,7 @@ This document is in draft
 1. [Views Slideshow](http://drupal.org/project/views_slideshow)
 1. [Skinr](http://drupal.org/project/skinr)
 1. [Quicktabs](http://drupal.org/project/quicktabs)
+1. [Disqus](http://drupal.org/project/disqus)
 
 ### Supported Browser
 
