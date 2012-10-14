@@ -11,9 +11,21 @@ This document is in draft
 
 ### Features
 
+1. Grid System (12 cols, 16 cols)
 1. Slideshow (support touch screen)
-1. Back to Top
 1. Dynamic Fonts
+1. Breadcrumb, dynamic separator.
+1. CSS classes:
+	1. Error Messages
+	1. Images: Shadow, Float left/right/center.
+    1. Buttons: Round button, 
+1. Misc
+    1. Back to Top
+1. Demo Profile:
+	1. Typography Page
+    1. Page has no sidebar
+    1. Page has only first sidebar
+    1. Page has both first and seconds sidebars
 
 ### Drupal Core
 
@@ -37,6 +49,7 @@ This document is in draft
 
 ### Supported Core Features
 
+1. Info/Error/Warning Messages
 1. Not include admin pages. Please use Seven or Rubik for admin pages.
 1. Aggregator
 1. Book
