@@ -15,11 +15,15 @@ This document is in draft
 1. Slideshow (support touch screen)
 1. Dynamic Fonts
 1. Breadcrumb, dynamic separator.
+1. Typography:
+    1. PullQuote, BlockQuote.
+    1. Unordered List
+    1. Ordered List
+    1. Table
 1. CSS classes:
 	1. Message Box: Info, Success, Warning, Error, Simple.
 	1. Images: Shadow, Float left/right/center.
     1. Buttons: Shadow, Round button.
-    1. PullQuote, BlockQuote.
 1. Misc
     1. Back to Top
 1. Demo Profile:
@@ -27,8 +31,8 @@ This document is in draft
     1. Page has no sidebar
     1. Page has only first sidebar
     1. Page has both first and seconds sidebars
-1. Code Hightlight
 1. Lazyload scripts:
+	1. Code Hightlight
 	1. [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/)
 
 ### Drupal Core
