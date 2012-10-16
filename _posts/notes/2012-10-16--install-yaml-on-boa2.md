@@ -8,8 +8,8 @@ published: true
 ---
 
 1. Install LibYAML - http://pyyaml.org/wiki/LibYAML
-2. Using pecl to install yaml
+2. Using pecl to install yaml:
 
-	/opt/local/bin/pecl install yaml
+    /opt/local/bin/pecl install yaml
     echo 'extension=yaml.so' > /etc/php5/fpm/conf.d/yaml.ini
     service php53-fpm restart
