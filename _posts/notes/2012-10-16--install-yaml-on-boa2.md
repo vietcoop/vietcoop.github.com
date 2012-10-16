@@ -2,6 +2,8 @@
 layout: post
 title: Install YAML on Barracuda
 permalink: /notes/boa/install-yaml
+category: 'Notes'
+tags: ['system', 'barracuda', 'aegir', 'octopus', 'pecl', 'php']
 published: true
 ---
 
