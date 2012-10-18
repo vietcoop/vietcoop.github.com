@@ -16,3 +16,4 @@ published: true
 
 1. [PHP on Heroku](http://hakre.wordpress.com/2012/05/20/php-on-heroku-again/)
 1. [Drupal on Heroku](http://sysadminsjourney.com/content/2011/09/20/drupal-heroku/)
+1. [Sass](https://github.com/pedro/hassle)
