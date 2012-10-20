@@ -16,3 +16,5 @@ published: true
 ### Articles
 
 1. [The Value of the Deadline](http://www.donanza.com/blog/2012/08/20/the-value-of-the-deadline/)
+1. [The Hidden Costs of Freelance Projects](http://www.donanza.com/blog/2012/06/21/the-hidden-costs-of-freelance-projects/)
+1. [Setting Your Freelance Rates](http://www.donanza.com/blog/2012/03/12/setting-your-freelance-rates/)
