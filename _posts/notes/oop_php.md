@@ -7,7 +7,6 @@ comments  : true
 author    : duynguyen
 category  : 'notes'
 tags      : ['oop']
-published: true
 ---
 
 # How does it work?
