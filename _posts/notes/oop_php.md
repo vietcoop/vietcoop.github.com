@@ -7,8 +7,7 @@ comments  : true
 author    : duynguyen
 category  : 'notes'
 tags      : ['oop']
+published: false
 ---
 
-# How does it work?
-
-Enter Text in Markdown format.
+## PHP
