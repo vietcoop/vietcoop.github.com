@@ -51,7 +51,7 @@ published: true
 1. [Chaos Tools](http://drupal.org/project/ctools)
 1. [Dynamic Font Rendering](http://drupal.org/project/dfont)
 1. [Display Suite](http://drupal.org/project/ds)
-1. [FontYourFace](http://drupal.org/project/fontyourface)
+1. [Font Your Face](http://drupal.org/project/fontyourface)
 1. [Google Fonts](http://drupal.org/project/google_fonts)
 1. [Mobile Switch](http://drupal.org/project/mobile_switch)
 1. [Mobile Tools](http://drupal.org/project/mobile_tools)
