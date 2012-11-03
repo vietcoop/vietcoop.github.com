@@ -54,6 +54,7 @@ published: true
 1. [FontYourFace](http://drupal.org/project/fontyourface)
 1. [Google Fonts](http://drupal.org/project/google_fonts)
 1. [Panels](http://drupal.org/project/panels)
+1. [Switch Theme](http://drupal.org/project/switchtheme)
 1. [TypeKit](http://drupal.org/project/typekit)
 1. [Views](http://drupal.org/project/views)
 1. [View mode per role](http://drupal.org/project/view_mode_per_role)
