@@ -7,11 +7,6 @@ tags: ['drupal', 'theming', 'design']
 published: true
 ---
 
-### Base Theme
-
-1. [Omega Theme](http://drupal.org/node/819164)
-1. [Drupal Boilerplate - by Lullabot](http://goo.gl/0q0kZ "Drupal Boilerplate")
-
 ### Articles
 
 1. [7 Mega Menu modules for Drupal](http://goo.gl/ReqUS "")
@@ -40,9 +35,17 @@ published: true
 1. [Tokokoo](http://tokokoo.com/)
 1. [{Wrapp}Bootstrap](https://wrapbootstrap.com/)
 
-### UI Modules
+### Base Theme
+
+1. [AdaptiveTheme](http://drupal.org/project/adaptivetheme)
+1. [Fusion](http://drupal.org/project/fusion)
+1. [Omega Theme](http://drupal.org/node/819164)
+1. [Drupal Boilerplate - by Lullabot](http://goo.gl/0q0kZ "Drupal Boilerplate")
+
+### Modules
 
 1. [Chaos Tools](http://drupal.org/project/ctools)
 1. [Display Suite](http://drupal.org/project/ds)
+1. [Panels](http://drupal.org/project/panels)
 1. [Views](http://drupal.org/project/views)
 1. [View mode per role](http://drupal.org/project/view_mode_per_role)
