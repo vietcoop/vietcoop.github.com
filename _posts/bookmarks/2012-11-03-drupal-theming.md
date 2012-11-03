@@ -44,8 +44,16 @@ published: true
 
 ### Modules
 
+1. [Browscap](http://drupal.org/project/browscap/)
+1. [Browscap Block](http://drupal.org/project/browscap_block/)
+1. [Browscap CTools](http://drupal.org/project/browscap_ctools)
+1. [Context](http://drupal.org/project/context)
 1. [Chaos Tools](http://drupal.org/project/ctools)
+1. [Dynamic Font Rendering](http://drupal.org/project/dfont)
 1. [Display Suite](http://drupal.org/project/ds)
+1. [FontYourFace](http://drupal.org/project/fontyourface)
+1. [Google Fonts](http://drupal.org/project/google_fonts)
 1. [Panels](http://drupal.org/project/panels)
+1. [TypeKit](http://drupal.org/project/typekit)
 1. [Views](http://drupal.org/project/views)
 1. [View mode per role](http://drupal.org/project/view_mode_per_role)
