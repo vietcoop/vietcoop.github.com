@@ -40,13 +40,18 @@ published: true
 1. entity_metadata_view_single()
 1. entity_metadata_table_query()
 
-### Tutorials
+## Tutorials
 
 1. [Creating your own entities with Entity API](http://goo.gl/maquD)
 
-### Extra modules
+## Extra modules
 
 1. [ECK](http://goo.gl/68df1)
 1. [Features](http://drupal.org/project/features)
 1. [Model](http://drupal.org/project/model)
 1. [Search API](http://drupal.org/project/search_api)
+1. [Entity Cache](http://drupal.org/project/entitycache)
+1. [Field Collection](http://drupal.org/project/field_collection)
+1. [Field Group](http://drupal.org/project/field_group)
+1. [Field Collection Table](http://drupal.org/project/field_collection_table)
+1. [Field Collection View](http://drupal.org/project/field_collection_views)
