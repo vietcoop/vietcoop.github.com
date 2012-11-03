@@ -42,6 +42,7 @@ published: true
 
 ### UI Modules
 
+1. [Chaos Tools](http://drupal.org/project/ctools)
 1. [Display Suite](http://drupal.org/project/ds)
 1. [Views](http://drupal.org/project/views)
 1. [View mode per role](http://drupal.org/project/view_mode_per_role)
