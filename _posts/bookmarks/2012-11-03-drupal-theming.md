@@ -53,6 +53,8 @@ published: true
 1. [Display Suite](http://drupal.org/project/ds)
 1. [FontYourFace](http://drupal.org/project/fontyourface)
 1. [Google Fonts](http://drupal.org/project/google_fonts)
+1. [Mobile Switch](http://drupal.org/project/mobile_switch)
+1. [Mobile Tools](http://drupal.org/project/mobile_tools)
 1. [Panels](http://drupal.org/project/panels)
 1. [Switch Theme](http://drupal.org/project/switchtheme)
 1. [TypeKit](http://drupal.org/project/typekit)
