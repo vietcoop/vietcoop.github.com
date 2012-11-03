@@ -39,3 +39,9 @@ published: true
 1. [Theme Spectrum](http://themespectrum.com/)
 1. [Tokokoo](http://tokokoo.com/)
 1. [{Wrapp}Bootstrap](https://wrapbootstrap.com/)
+
+### UI Modules
+
+1. [Display Suite](http://drupal.org/project/ds)
+1. [Views](http://drupal.org/project/views)
+1. [View mode per role](http://drupal.org/project/view_mode_per_role)
