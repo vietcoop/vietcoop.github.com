@@ -8,4 +8,5 @@ category  : 'Bookmarks'
 published: true
 ---
 
-1. [Agile DevOps: Unleash the Chaos Monkey](http://www.ibm.com/developerworks/library/a-devops4/a-devops4-pdf.pdf)
+1. [Agile Mini Class](http://goo.gl/a8URs)
+1. [Agile DevOps: Unleash the Chaos Monkey](http://goo.gl/T8Zre)
