@@ -13,6 +13,7 @@ published: true
 1. [How to get better at UI design](http://goo.gl/3Vr5f "")
 1. [Responsive JavaScript](http://goo.gl/FxuaL)
 1. [SASS in Drupal](http://goo.gl/0hDce)
+1. [40 Awesome HTML5 Cheat Sheets, Tutorials and Resources](http://goo.gl/vBO9W)
 
 ### Javascript
 
