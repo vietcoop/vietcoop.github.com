@@ -11,7 +11,7 @@ published: true
 
 1. [7 Mega Menu modules for Drupal](http://goo.gl/ReqUS "")
 1. [How to get better at UI design](http://goo.gl/3Vr5f "")
-1. [Responsive JavaScript](http://adaptivethemes.com/documentation/responsive-javascript)
+1. [Responsive JavaScript](http://goo.gl/FxuaL)
 
 ### Javascript
 
@@ -19,7 +19,7 @@ published: true
 1. [Underscore.JS](http://underscorejs.org/ "")
 1. [Backbon.JS](http://backbonejs.org/ "")
 1. [jQuery Masonry](http://masonry.desandro.com/)
-1. [JS Media Query](https://github.com/JoshBarr/js-media-queries)
+1. [JS Media Query](http://goo.gl/gGA8W)
 
 ### Fonts
 
@@ -61,4 +61,4 @@ published: true
 1. [Switch Theme](http://drupal.org/project/switchtheme)
 1. [TypeKit](http://drupal.org/project/typekit)
 1. [Views](http://drupal.org/project/views)
-1. [View mode per role](http://drupal.org/project/view_mode_per_role)
+1. [View mode per role](http://goo.gl/8y1sM)
