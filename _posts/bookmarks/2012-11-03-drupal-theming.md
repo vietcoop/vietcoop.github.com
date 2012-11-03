@@ -11,6 +11,7 @@ published: true
 
 1. [7 Mega Menu modules for Drupal](http://goo.gl/ReqUS "")
 1. [How to get better at UI design](http://goo.gl/3Vr5f "")
+1. [Responsive JavaScript](http://adaptivethemes.com/documentation/responsive-javascript)
 
 ### Javascript
 
@@ -18,6 +19,7 @@ published: true
 1. [Underscore.JS](http://underscorejs.org/ "")
 1. [Backbon.JS](http://backbonejs.org/ "")
 1. [jQuery Masonry](http://masonry.desandro.com/)
+1. [JS Media Query](https://github.com/JoshBarr/js-media-queries)
 
 ### Fonts
 
