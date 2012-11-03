@@ -12,6 +12,7 @@ published: true
 1. [7 Mega Menu modules for Drupal](http://goo.gl/ReqUS "")
 1. [How to get better at UI design](http://goo.gl/3Vr5f "")
 1. [Responsive JavaScript](http://goo.gl/FxuaL)
+1. [SASS in Drupal](http://goo.gl/0hDce)
 
 ### Javascript
 
