@@ -66,6 +66,8 @@ published: true
 1. [Mobile Tools](http://drupal.org/project/mobile_tools)
 1. [Panels](http://drupal.org/project/panels)
 1. [Switch Theme](http://drupal.org/project/switchtheme)
+1. [Skinr](http://drupal.org/project/skinr)
+1. [Superfish](http://drupal.org/project/superfish)
 1. [TypeKit](http://drupal.org/project/typekit)
 1. [Views](http://drupal.org/project/views)
 1. [View mode per role](http://goo.gl/8y1sM)
