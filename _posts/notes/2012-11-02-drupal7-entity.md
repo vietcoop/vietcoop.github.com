@@ -10,7 +10,11 @@ published: true
 
 ## Core
 
-1. [hook_entity_info](http://goo.gl/ZzZll)
+1. [hook_entity_info](http://goo.gl/ZzZll). Examples:
+
+    1. [search_api_entity_info](http://goo.gl/CAGSs)
+    1. [profile2_entity_info](http://goo.gl/bokMS)
+
 1. [hook_entity_info_alter](http://goo.gl/lHdxV)
 
 ### Base Classes/Interfaces
