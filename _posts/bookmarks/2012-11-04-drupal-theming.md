@@ -44,6 +44,7 @@ published: true
 1. [AdaptiveTheme](http://drupal.org/project/adaptivetheme)
 1. [Fusion](http://drupal.org/project/fusion)
 1. [Omega Theme](http://drupal.org/node/819164)
+1. [Nucleus](http://drupal.org/project/nucleus)
 1. [Drupal Boilerplate - by Lullabot](http://goo.gl/0q0kZ "Drupal Boilerplate")
 1. [Zen](http://drupal.org/project/zen)
 1. **Reviews:**
