@@ -14,6 +14,7 @@ published: true
 1. [Responsive JavaScript](http://goo.gl/FxuaL)
 1. [SASS in Drupal](http://goo.gl/0hDce)
 1. [40 Awesome HTML5 Cheat Sheets, Tutorials and Resources](http://goo.gl/vBO9W)
+1. [Get started with Drupal theming](http://designtotheme.com/)
 
 ### Javascript
 
