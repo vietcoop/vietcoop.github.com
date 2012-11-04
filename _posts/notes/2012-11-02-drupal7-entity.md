@@ -8,9 +8,31 @@ tags      : ['api', 'sub system', 'drupal 7']
 published: true
 ---
 
-1. [hook_entity_info](http://goo.gl/ZzZll)
+## Core
 
-### [Entity API module](http://goo.gl/l3jtF)
+1. [hook_entity_info](http://goo.gl/ZzZll)
+1. [hook_entity_info_alter](http://goo.gl/lHdxV)
+
+### Base Classes/Interfaces
+
+1. [DrupalEntityControllerInterface](http://goo.gl/cLsak)
+1. [DrupalDefaultEntityController](http://goo.gl/y0gjP)
+
+### Helper functions
+
+1. [entity_create_stub_entity](http://goo.gl/fgh3X)
+1. [entity_extract_ids](http://goo.gl/Mt5i1)
+1. [entity_get_controller](http://goo.gl/e7BHy)
+1. [entity_get_info](http://goo.gl/Qsc4Y)
+1. [entity_label](http://goo.gl/aQrbH)
+1. [entity_language](http://goo.gl/DQCZn)
+1. [entity_load](http://goo.gl/zQgGo)
+1. [entity_load_unchanged](http://goo.gl/vg1zY)
+1. [entity_prepare_view](http://goo.gl/jY875)
+1. [entity_info_cache_clear](http://goo.gl/aOXCe)
+1. [entity_uri](http://goo.gl/tL6Ao)
+
+## [Entity API module](http://goo.gl/l3jtF)
 
 ### Extra supported keys in hook_entity_info()
 
@@ -19,7 +41,6 @@ published: true
 
 ### Base Classes
 
-1. [DrupalDefaultEntityController](http://goo.gl/y0gjP)
 1. [Entity](http://goo.gl/EGDUt)
 1. [EntityAPIController](http://goo.gl/rGk4u)
 1. [EntityAPIControllerExportable](http://goo.gl/Lg8HC)
