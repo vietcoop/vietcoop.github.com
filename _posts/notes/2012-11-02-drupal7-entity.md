@@ -48,6 +48,7 @@ published: true
 1. [Entity](http://goo.gl/EGDUt)
 1. [EntityAPIController](http://goo.gl/rGk4u)
 1. [EntityAPIControllerExportable](http://goo.gl/Lg8HC)
+1. [EntityDefaultUIController](http://goo.gl/04Fzh)
 
 ### Default Callbacks
 
