@@ -44,6 +44,7 @@ published: true
 1. [entity_metadata_hook_entity_info](http://goo.gl/5SOT0)
 1. [hook_entity_property_info](http://goo.gl/1AcqI)
 1. [hook_entity_property_info_alter](http://goo.gl/qlkmd)
+1. [hook_entity_views_field_handlers_alter](http://goo.gl/K6fmg)
 
 ### Base Classes
 
