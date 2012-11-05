@@ -81,3 +81,4 @@ published: true
 1. [Field Group](http://drupal.org/project/field_group)
 1. [Field Collection Table](http://drupal.org/project/field_collection_table)
 1. [Field Collection View](http://drupal.org/project/field_collection_views)
+1. [EntityFieldQuery Views Backend](http://drupal.org/project/efq_views)
