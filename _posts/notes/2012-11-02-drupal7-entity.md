@@ -43,6 +43,7 @@ published: true
 1. [entity_crud_hook_entity_info](http://goo.gl/mfH94)
 1. [entity_metadata_hook_entity_info](http://goo.gl/5SOT0)
 1. [hook_entity_property_info](http://goo.gl/1AcqI)
+1. [hook_entity_property_info_alter](http://goo.gl/qlkmd)
 
 ### Base Classes
 
