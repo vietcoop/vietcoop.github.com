@@ -51,6 +51,11 @@ published: true
 1. [EntityAPIControllerExportable](http://goo.gl/Lg8HC)
 1. [EntityDefaultUIController](http://goo.gl/04Fzh)
 
+### Helper functions
+
+1. [entity_metadata_wrapper](http://goo.gl/SDy40)
+1. [entity_property_query](http://goo.gl/RCFHv)
+
 ### Default Callbacks
 
 1. entity_metadata_form_entity_ui()
