@@ -42,7 +42,7 @@ Và các Web Cartridges
 1. Perl 5.10
 1. …
 
-### Làm sao để tạo một ứng dụng. ở đây tôi chỉ đề cập đến Drupal
+### Làm sao để tạo một ứng dụng, ở đây tôi chỉ đề cập đến Drupal?
 
 Có 2 cách để tạo một ứng dụng trên Openshift
 
@@ -60,5 +60,7 @@ Openshift không hỗ trợ chúng ta fpt vào ứng dụng của chúng ta vì 
 ### Examples
 
 1. [Redis](https://github.com/openshift/redis-openshift-example)
+1. [Drupal](https://github.com/openshift/drupal-example)
+1. [DokuWiki](https://github.com/openshift/dokuwiki-quickstart)
 
 by **DuyNguyen**
