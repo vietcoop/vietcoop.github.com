@@ -62,5 +62,6 @@ Openshift không hỗ trợ chúng ta fpt vào ứng dụng của chúng ta vì 
 1. [Redis](https://github.com/openshift/redis-openshift-example)
 1. [Drupal](https://github.com/openshift/drupal-example)
 1. [DokuWiki](https://github.com/openshift/dokuwiki-quickstart)
+1. [Redmine](https://github.com/openshift/redmine-2.0-openshift-quickstart)
 
 by **DuyNguyen**
