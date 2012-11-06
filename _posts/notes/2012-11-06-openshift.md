@@ -11,22 +11,22 @@ comments  : true
 
 ### Openshift là gì
 
-Nó là môi trường để bạn tạo và phát triển ứng dụng của bạn trên cloud.
+Openshift là môi trường để bạn tạo và phát triển ứng dụng của bạn trên cloud.
 
 ### Giá cả thế nào?
 
 Openshift cung cấp 2 loại tài khỏan FreeShift và MegaShift
  
 1. FreeShift miễn phí 3 Gears : nó đử dung lương để cho ta có thể chạy một site drupal thông thường
-2. MegaShift : bạn có thể tham khảo tại đây https://openshift.redhat.com/community/developers/pricing
+2. MegaShift: bạn có thể tham khảo [tại đây](https://openshift.redhat.com/community/developers/pricing).
 
-### làm sao để dùng Openshift
+### Làm sao để dùng Openshift
 
-Bạn chỉ cần đăng ký 1 tài khỏan và có thể sủ dụng openshift.
+Bạn chỉ cần đăng ký 1 tài khoản và có thể sủ dụng openshift. Mỗi account 
 
 ### Open shift hỗ trợ những gì
 
-openshift cho chúng ta tạo các Instant Applications sau:
+OpenShift cho chúng ta tạo các Instant Applications sau:
 
 1. CakePHP
 1. Ruby on Rails
