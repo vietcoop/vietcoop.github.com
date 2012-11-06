@@ -57,4 +57,8 @@ Openshift không hỗ trợ chúng ta fpt vào ứng dụng của chúng ta vì 
 1. Dùng shh để connect vào app của bạn
 1. Dùng git để quản lý source
 
+### Examples
+
+1. [Redis](https://github.com/razorinc/redis-openshift-example)
+
 by **DuyNguyen**
