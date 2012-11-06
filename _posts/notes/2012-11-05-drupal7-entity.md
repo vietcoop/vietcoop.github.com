@@ -95,3 +95,4 @@ published: true
 
 1. [Fieldable Panels Panes](http://drupal.org/project/fieldable_panels_panes)
 1. [Subs](http://drupal.org/project/subs)
+1. [Messages](http://drupal.org/project/message)
