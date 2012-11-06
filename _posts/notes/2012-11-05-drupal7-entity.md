@@ -90,3 +90,8 @@ published: true
 1. [Features](http://drupal.org/project/features)
 1. [Model](http://drupal.org/project/model)
 1. [Search API](http://drupal.org/project/search_api)
+
+### Modules built on EntityAPI
+
+1. [Fieldable Panels Panes](http://drupal.org/project/fieldable_panels_panes)
+1. [Subs](http://drupal.org/project/subs)
