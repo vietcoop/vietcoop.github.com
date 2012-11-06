@@ -31,6 +31,7 @@ published: true
 1. [Backbon.JS](http://backbonejs.org/ "")
 1. [jQuery Masonry](http://masonry.desandro.com/)
 1. [JS Media Query](http://goo.gl/gGA8W)
+1. [Sequence](http://www.sequencejs.com/) - Sequence.js is a Responsive jQuery slider plugin with some advanced transition effects. Unlike the other slider, Sequence does not come with its own built-in theme. So, we can completely customize the look and feel to match our website.
 
 ### Fonts
 
