@@ -16,7 +16,7 @@ Openshift là môi trường để bạn tạo và phát triển ứng dụng c�
 ### Giá cả thế nào?
 
 Openshift cung cấp 2 loại tài khỏan FreeShift và MegaShift
- 
+
 1. FreeShift miễn phí 3 Gears : nó đử dung lương để cho ta có thể chạy một site drupal thông thường
 2. MegaShift: bạn có thể tham khảo [tại đây](https://openshift.redhat.com/community/developers/pricing).
 
@@ -28,12 +28,11 @@ Bạn chỉ cần đăng ký 1 tài khoản và có thể sủ dụng openshift.
 
 OpenShift cho chúng ta tạo các Instant Applications sau:
 
+1. Drupal
 1. CakePHP
-1. Ruby on Rails
 1. Ruby on Rails
 1. Kitchensink Example
 1. WordPress
-1. Drupal
 
 Và các Web Cartridges
 
@@ -41,9 +40,9 @@ Và các Web Cartridges
 1. PHP-5.3
 1. Python 2.6
 1. Perl 5.10
-1. .....
+1. …
 
-### Làm sao để tạo một ứng dụng. ở đây tôi chỉ đề cập đến drupal
+### Làm sao để tạo một ứng dụng. ở đây tôi chỉ đề cập đến Drupal
 
 Có 2 cách để tạo một ứng dụng trên Openshift
 
@@ -58,4 +57,4 @@ Openshift không hỗ trợ chúng ta fpt vào ứng dụng của chúng ta vì 
 1. Dùng shh để connecnt vào app của bạn
 1. Dùng git để quản lý source
 
-by DuyNguyen
+by **DuyNguyen**
