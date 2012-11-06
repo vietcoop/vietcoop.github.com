@@ -59,6 +59,6 @@ Openshift không hỗ trợ chúng ta fpt vào ứng dụng của chúng ta vì 
 
 ### Examples
 
-1. [Redis](https://github.com/razorinc/redis-openshift-example)
+1. [Redis](https://github.com/openshift/redis-openshift-example)
 
 by **DuyNguyen**
