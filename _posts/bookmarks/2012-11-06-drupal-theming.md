@@ -29,6 +29,7 @@ published: true
 1. [Get started with Drupal theming](http://designtotheme.com/)
 1. [Art of the Quiet Interface](http://goo.gl/uQADU)
 1. [Building Drupal Style Tiles using Foundation and SCSS](http://goo.gl/cVI1Q)
+1. [Converting a Views List Into Stacked Columns](http://goo.gl/RPkyW)
 
 ### Javascript
 
