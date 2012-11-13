@@ -86,7 +86,6 @@ published: true
 1. [ECK](http://goo.gl/68df1)
 1. [Entity Cache](http://drupal.org/project/entitycache)
 1. [EntityFieldQuery Views Backend](http://drupal.org/project/efq_views)
-1. [Entity Reference](http://drupal.org/project/entityreference)
 1. [Field Collection](http://drupal.org/project/field_collection)
 1. [Field Collection Table](http://drupal.org/project/field_collection_table)
 1. [Field Collection View](http://drupal.org/project/field_collection_views)
@@ -107,3 +106,4 @@ published: true
 
 1. [Field Redirection](http://goo.gl/FYWG0)
 1. [Field Group](http://drupal.org/project/field_group)
+1. [Entity Reference](http://drupal.org/project/entityreference)
