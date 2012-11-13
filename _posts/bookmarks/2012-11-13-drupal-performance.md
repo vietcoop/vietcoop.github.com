@@ -13,6 +13,7 @@ published: true
 1. Update to Drupal 7 instead of Drupal 6:
 
     1. \*_load_multiple(): Less query to database
+    1. Entity caching module is available
 
 1. Use nginx instead of Apache Httpd.
 1. Use search_api + solr instead of default search.module in core.
@@ -40,3 +41,7 @@ published: true
 1. [Mongodb](http://drupal.org/project/mongodb)
 1. [Performance hacks](http://drupal.org/project/performance_hacks)
 1. [Patch: Cache url()](http://drupal.org/node/1327720)
+
+### Checklist
+
+1. …
