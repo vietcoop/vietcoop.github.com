@@ -101,3 +101,4 @@ published: true
 1. [Subs](http://drupal.org/project/subs)
 1. [Messages](http://drupal.org/project/message)
 1. [Bean](http://drupal.org/project/bean)
+1. [Media](http://drupal.org/project/media)
