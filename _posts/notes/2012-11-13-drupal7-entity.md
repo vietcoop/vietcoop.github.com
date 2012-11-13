@@ -77,6 +77,8 @@ published: true
 ## Tutorials
 
 1. [Creating your own entities with Entity API](http://goo.gl/maquD)
+1. [Adding Entities to ApacheSolr Search](http://goo.gl/kFJqy)
+1. [Remote entities in Drupal 7](http://goo.gl/HIlyK)
 
 ## Extra modules
 
