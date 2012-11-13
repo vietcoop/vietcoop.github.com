@@ -16,6 +16,7 @@ published: true
 
 1. Use nginx instead of Apache Httpd.
 1. Use search_api + solr instead of default search.module in core.
+1. Use Redis cache instead of default core database caching.
 
 ### Modules
 
@@ -35,7 +36,7 @@ published: true
 1. [LabJS](http://drupal.org/project/labjs "")
 1. [HeadJS](http://drupal.org/project/headjs "")
 1. [AmazonS3](http://drupal.org/project/AmazonS3 "")
-1. [Memcache API and Integration](http://drupal.org/project/memcache "")
-1. [Mongodb](http://drupal.org/project/mongodb "")
-1. [Performance hacks](http://drupal.org/project/performance_hacks "")
-1. [Patch: Cache url()](http://drupal.org/node/1327720 "")
+1. [Memcache API and Integration](http://drupal.org/project/memcache)
+1. [Mongodb](http://drupal.org/project/mongodb)
+1. [Performance hacks](http://drupal.org/project/performance_hacks)
+1. [Patch: Cache url()](http://drupal.org/node/1327720)
