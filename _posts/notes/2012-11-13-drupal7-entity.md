@@ -90,7 +90,6 @@ published: true
 1. [Field Collection](http://drupal.org/project/field_collection)
 1. [Field Collection Table](http://drupal.org/project/field_collection_table)
 1. [Field Collection View](http://drupal.org/project/field_collection_views)
-1. [Field Group](http://drupal.org/project/field_group)
 1. [Features](http://drupal.org/project/features)
 1. [Model](http://drupal.org/project/model)
 1. [Search API](http://drupal.org/project/search_api)
@@ -107,3 +106,4 @@ published: true
 ### Fields
 
 1. [Field Redirection](http://goo.gl/FYWG0)
+1. [Field Group](http://drupal.org/project/field_group)
