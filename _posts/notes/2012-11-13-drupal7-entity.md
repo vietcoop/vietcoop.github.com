@@ -93,6 +93,7 @@ published: true
 1. [Features](http://drupal.org/project/features)
 1. [Model](http://drupal.org/project/model)
 1. [Search API](http://drupal.org/project/search_api)
+1. [Automatic Entity Label](http://drupal.org/project/auto_entitylabel)
 
 ### Modules built on EntityAPI
 
