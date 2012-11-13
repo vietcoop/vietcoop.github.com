@@ -9,8 +9,6 @@ tags      : ['groups', 'drupal.org']
 published: true
 ---
 
-{% include JB/setup %}
-
 # Groups
 
 ## Groups.Drupal.org
