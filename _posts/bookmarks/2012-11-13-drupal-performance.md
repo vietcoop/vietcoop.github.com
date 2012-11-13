@@ -9,3 +9,4 @@ published: true
 
 1. [Understanding Redis Cache](http://goo.gl/zJ3sZ)
 1. [A Twist On Scalability](http://goo.gl/17Fgn)
+1. [Drupal Performance Best Practices](http://goo.gl/Ugrx9)
