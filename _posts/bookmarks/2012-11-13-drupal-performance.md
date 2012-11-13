@@ -11,8 +11,11 @@ published: true
 1. [A Twist On Scalability](http://goo.gl/17Fgn)
 1. [Drupal Performance Best Practices](http://goo.gl/Ugrx9)
 1. Update to Drupal 7 instead of Drupal 6:
-    1. *_load_multiple(): Less query to database
+
+    1. \*_load_multiple(): Less query to database
+
 1. Use nginx instead of Apache Httpd.
+1. Use search_api + solr instead of default search.module in core.
 
 ### Modules
 
