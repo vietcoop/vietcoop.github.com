@@ -7,8 +7,6 @@ category: 'Bookmarks'
 published: false
 ---
 
-{% include JB/setup %}
-
 1. [shop Blackloon](http://shopblackloon.com/ "")
 1. [tenforce](http://www.tenforce.com/ "Drupal Setup")
 1. [Crenet](http://crenet.com/ "Drupal Setup, custom modules for front end, content access")
