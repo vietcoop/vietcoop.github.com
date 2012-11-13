@@ -9,6 +9,16 @@ tags      : ['community', 'initiative']
 published: true
 ---
 
+### Design
+
+1. [Blue Drop Awards](http://www.bluedropawards.org/)
+
+### Content
+
+1. [The Weekly Drop](http://theweeklydrop.com/archive)
+1. [Modules of month](http://goo.gl/6ftl3)
+
+
 ### [/DrupalGive](http://drupal.org/project/drupalgive)
 
 1. [Acquia](http://www.acquia.com/drupalgive)
@@ -21,11 +31,3 @@ published: true
 1. [Phase2technology](http://www.phase2technology.com/drupalgive)
 1. [Zivtech](http://www.zivtech.com/drupalgive)
 1. [More…](https://www.google.com.vn/webhp#q=inurl:/drupalgive)
-
-### Design
-
-1. [Blue Drop Awards](http://www.bluedropawards.org/)
-
-### Content
-
-1. [The Weekly Drop](http://theweeklydrop.com/archive)
