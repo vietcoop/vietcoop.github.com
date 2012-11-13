@@ -91,6 +91,7 @@ published: true
 1. [Field Collection View](http://drupal.org/project/field_collection_views)
 1. [Features](http://drupal.org/project/features)
 1. [Model](http://drupal.org/project/model)
+1. [Rules](http://drupal.org/project/rules)
 1. [Search API](http://drupal.org/project/search_api)
 1. [Automatic Entity Label](http://drupal.org/project/auto_entitylabel)
 
