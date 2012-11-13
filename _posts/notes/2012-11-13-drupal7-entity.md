@@ -97,7 +97,7 @@ published: true
 
 ### Modules built on EntityAPI
 
-1. [Fieldable Panels Panes](http://drupal.org/project/fieldable_panels_panes)
+1. [Fieldable Panels Panes](http://goo.gl/E8GtV)
 1. [Subs](http://drupal.org/project/subs)
 1. [Messages](http://drupal.org/project/message)
 1. [Bean](http://drupal.org/project/bean)
