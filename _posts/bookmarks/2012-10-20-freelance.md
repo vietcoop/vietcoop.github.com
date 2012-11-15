@@ -10,8 +10,10 @@ published: true
 
 ### Market Places
 
-1. oDesk.com
-1. ELance.com
+1. [oDesk.com](http://goo.gl/6d92o)
+1. [ELance.com](http://goo.gl/cpmrJ)
+1. [Freelancer](http://goo.gl/0vLUU)
+1. [Vietnam Market Places](http://goo.gl/AzJer)
 
 ### Articles
 
