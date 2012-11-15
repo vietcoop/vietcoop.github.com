@@ -19,6 +19,7 @@ published: true
 1. [Compass](http://compass-style.org/) - for Sass, like jQuery for Javascript.
 1. [Sussy](http://susy.oddbird.net/) - Responsive grids for Compass.
 1. [Punch](http://goo.gl/FUDv5) - Punch is a simple, intuitive web publishing framework that will delight both designers and developers.
+1. [Jekyll](http://goo.gl/EMfNC) - Jekyll is a blog-aware, static site generator in Ruby.
 
 ### Articles
 
