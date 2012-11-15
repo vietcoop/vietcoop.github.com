@@ -21,6 +21,7 @@ published: true
 1. [Punch](http://goo.gl/FUDv5) - Punch is a simple, intuitive web publishing framework that will delight both designers and developers.
 1. [Jekyll](http://goo.gl/EMfNC) - Jekyll is a blog-aware, static site generator in Ruby.
 1. [Dashing](http://shopify.github.com/dashing/) - The exceptionally handsome dashboard framework.
+1. [http://goo.gl/3NvA8](http://goo.gl/3NvA8) - Extends Twitter Bootstrap with additional lightweight JavaScript controls.
 
 ### Articles
 
