@@ -25,6 +25,7 @@ published: true
 1. [Rules Example](http://goo.gl/Z5OVM)
 1. [Example Web Scraper](http://goo.gl/xpWTq)
 1. [Feature FAQ](http://goo.gl/NfXa6)
+1. [Debugging Drupal](http://goo.gl/D1Sxs)
 
 ## Page Manager, Panels, Views
 
