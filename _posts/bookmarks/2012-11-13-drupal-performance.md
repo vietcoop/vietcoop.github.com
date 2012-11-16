@@ -42,6 +42,7 @@ published: true
 1. [Performance hacks](http://drupal.org/project/performance_hacks)
 1. [Patch: Cache url()](http://drupal.org/node/1327720)
 
-### Checklist
+### Books / Articles
 
-1. …
+1. [Drupal Performance and Scalability](http://books.tag1consulting.com/scalability)
+1. [High performance Theming](http://rupl.github.com/high-performance-theming/)
