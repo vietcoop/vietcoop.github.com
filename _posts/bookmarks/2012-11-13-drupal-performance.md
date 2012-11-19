@@ -21,6 +21,7 @@ published: true
 
 ### Modules
 
+1. [Performance and Scalability Checklist](http://drupal.org/project/pasc)
 1. [HTTP Parallel Request & Threading Library](http://drupal.org/project/httprl)
 1. [Advanced CSS/JS Aggregation](http://drupal.org/project/advagg)
 1. [Nginx configuration for Drupal](https://github.com/alanthing/drupal-with-nginx)
