@@ -44,5 +44,6 @@ published: true
 
 ### Books / Articles
 
+1. [Drupal caching, speed and performance](http://drupal.org/node/326504)
 1. [Drupal Performance and Scalability](http://books.tag1consulting.com/scalability)
 1. [High performance Theming](http://rupl.github.com/high-performance-theming/)
