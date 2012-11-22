@@ -17,7 +17,9 @@ published: true
 
 1. [The Weekly Drop](http://theweeklydrop.com/archive)
 1. [Modules of month](http://goo.gl/6ftl3)
-
+1. [Project Review Wednesday](http://goo.gl/bTpmY)
+1. [Module Monday](http://goo.gl/i6q5S)
+1. [Commerce Module Tuesday](http://goo.gl/JSPoF)
 
 ### [/DrupalGive](http://drupal.org/project/drupalgive)
 
