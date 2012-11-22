@@ -20,6 +20,7 @@ published: true
 1. [Project Review Wednesday](http://goo.gl/bTpmY)
 1. [Module Monday](http://goo.gl/i6q5S)
 1. [Commerce Module Tuesday](http://goo.gl/JSPoF)
+1. [DrupalEasy Podcast](http://goo.gl/A98eS)
 
 ### [/DrupalGive](http://drupal.org/project/drupalgive)
 
