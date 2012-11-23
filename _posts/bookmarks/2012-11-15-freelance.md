@@ -21,3 +21,8 @@ published: true
 1. [The Hidden Costs of Freelance Projects](http://goo.gl/5ZeMS)
 1. [Setting Your Freelance Rates](http://goo.gl/fzk0L)
 1. [Bảo vệ sức khỏe từ cách ngồi làm việc](http://goo.gl/3108I)
+1. [Tips for Converting Your Freelance Operation into a Business](http://goo.gl/GZ89E0
+1. [Thoughts and Considerations for Freelancing on a Part-Time Basis](http://goo.gl/KN5Pp)
+1. [Is Working Freelance Really Worth It? Pros and Cons](http://goo.gl/GhFsW)
+1. [Tips for Landing your first Freelance Design Job](http://goo.gl/ThcUQ)
+1. [Investigation into a Freelancer’s Workday Schedule](http://goo.gl/saiUT)
