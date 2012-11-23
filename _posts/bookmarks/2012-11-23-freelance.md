@@ -1,10 +1,10 @@
 ---
-layout:     post
-permalink:  /bookmarks/freelance
-title     : Freelance - Bookmarks
-author    : andytruong
-category  : 'Bookmarks'
-published:  true
+layout: post
+permalink: /bookmarks/freelance
+title: Freelance - Bookmarks
+author: andytruong
+category: 'Bookmarks'
+published: true
 ---
 
 ### Market Places
