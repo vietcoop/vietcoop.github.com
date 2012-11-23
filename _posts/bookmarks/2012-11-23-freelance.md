@@ -2,10 +2,9 @@
 layout:     post
 permalink:  /bookmarks/freelance
 title     : Freelance - Bookmarks
-comments  : true
 author    : andytruong
 category  : 'Bookmarks'
-published: true
+published:  true
 ---
 
 ### Market Places
