@@ -1,11 +1,15 @@
 ---
+published: true
 layout: post
 author: andytruong
-permalink: /notes/drupal-entity
-title     : Entity - Drupal 7
-category  : 'Documentation'
-tags      : ['api', 'sub system', 'drupal 7']
-published: true
+permalink: "/notes/drupal-entity"
+title: "Entity - Drupal 7"
+category: Documentation
+tags: 
+  - api
+  - sub system
+  - drupal 7
+
 ---
 
 ## Core
